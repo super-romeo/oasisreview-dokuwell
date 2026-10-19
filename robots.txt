@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oasisreview.dokuwell.com/sitemap.xml
